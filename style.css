@@ -96,3 +96,85 @@ footer {
   border-radius: 8px;
   margin-bottom: 10px;
 }
+
+.quem-somos {
+  margin-top: 40px;
+}
+
+.quem-somos h2 {
+  color: #00ff99;
+  font-size: 2em;
+}
+
+.quem-somos p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  text-align: justify;
+  margin-bottom: 15px;
+}
+
+.quem-somos ul {
+  list-style: none;
+  padding: 0;
+}
+
+.quem-somos li {
+  margin-bottom: 8px;
+}
+
+.quem-somos a {
+  color: #00ff99;
+  text-decoration: none;
+}
+
+.trabalhe {
+  margin-top: 40px;
+}
+
+.trabalhe h2 {
+  color: #00ff99;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.trabalhe p, .trabalhe li {
+  font-size: 1.1em;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.trabalhe ul {
+  list-style: disc;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.depoimentos {
+  margin-top: 40px;
+}
+
+.depoimentos h2 {
+  color: #00ff99;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.depoimento {
+  background-color: #1e1e1e;
+  border-left: 5px solid #00ff99;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+.depoimento blockquote {
+  font-size: 1.1em;
+  line-height: 1.6;
+  font-style: italic;
+  margin: 0 0 10px 0;
+}
+
+.depoimento cite {
+  font-size: 0.9em;
+  color: #bbb;
+}
