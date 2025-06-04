@@ -178,3 +178,12 @@ footer {
   font-size: 0.9em;
   color: #bbb;
 }
+
+.imagem-apresentacao {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin: 20px auto; /* espaçamento e centralização */
+  border-radius: 10px; /* bordas arredondadas, opcional */
+}
